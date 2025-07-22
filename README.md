@@ -125,14 +125,3 @@ A_add = 0.16 × V × |ΔT60| / α̅
 
 Python was used to simulate and plot NR curves and internal/external source noise graphs.
 
-Example:
-```python
-plt.plot(frequencies, NR_25_values, label='NR25')
-plt.plot(frequencies, internal_source, label='Internal Source')
-```
-
-![Figure 3](images/figure3.png)
-
-> 📂 All code is included in [Appendix A](#).
-
----

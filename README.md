@@ -1,6 +1,6 @@
 # 🎶 Acoustic Design and Noise Control for a Music Hall
 
-This project addresses the professional acoustic design of a **college-level chamber music hall**. It includes **environmental noise assessment**, **internal noise control**, **reverberation tuning**, **building acoustic insulation**, and **prediction of music-induced sound levels**, ensuring optimal conditions for both performances and lectures.
+This project addresses the professional acoustic design of a **chamber music hall intended for college/Acadamic use**. It includes **environmental noise assessment**, **internal noise control**, **reverberation tuning**, **building acoustic insulation**, and **prediction of music-induced sound levels**, ensuring optimal conditions for both performances and lectures.
 
 ---
 

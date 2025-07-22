@@ -19,8 +19,11 @@ This project addresses the professional acoustic design of a **college-level cha
 - NR curves plotted and assessed from ISO 1996
 - Design implication: HVAC and lighting systems must remain under NR25
 
-![Figure 2](images/figure2.png)  
+![NR Curve](images/NRcurve.png)  
 📌 *Internal source noise meets NR25 target*
+
+![NR25 vs Internal noise](images/NRvnoise.png)  
+ *Internal source noise meets NR25 target*
 
 ---
 
@@ -35,7 +38,7 @@ This project addresses the professional acoustic design of a **college-level cha
 
 - Mitigation by: insulation, layout adjustments, and acoustic facades
 
-![Figure 4](images/figure4.png)
+![L10 line vs external noise break in](images/L10vnoise.png)
 
 ---
 
